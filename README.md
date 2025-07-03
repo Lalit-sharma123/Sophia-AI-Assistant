@@ -31,4 +31,11 @@
 ---
 
 ## 📁 Project Structure
-
+Sophia-AI-Assistant/
+│
+├── envSophia/ # Python virtual environment
+├── main.py # Main executable file
+├── commands/ # Custom command modules (optional)
+├── utils/ # Helper utilities
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
